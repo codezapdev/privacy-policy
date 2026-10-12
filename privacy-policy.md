@@ -1,11 +1,45 @@
-Thank you for choosing to be part of our community at CodeZap.
-We are committed to protecting your personal information and your right to privacy.
+# CodeZap Privacy Policy
 
-If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at codezapdev@gmail.com.
+**Last updated: October 12, 2026**
 
-When you use any of our services, we appreciate that you are trusting us with your personal information. We take your privacy very seriously. 
-In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. 
-If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
+## 1. Data Collection
 
-This privacy notice applies to all information collected through our Services (which, as described above, includes our Website), as well as, any related services, sales, marketing or events.
-Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
+CodeZap does not collect personal information or user data through its Chrome extensions.
+
+The extensions do not collect, harvest, or transmit users' personal information to CodeZap for storage or processing.
+
+## 2. Data Usage
+
+CodeZap does not use users' personal information for advertising, profiling, analytics, or any purpose unrelated to the extensions' functionality.
+
+Any information processed locally by an extension is used only to perform the action explicitly requested by the user.
+
+## 3. Data Storage and Retention
+
+CodeZap does not store users' personal information on its servers.
+
+CodeZap does not maintain a database of users' personal information collected through its Chrome extensions.
+
+Any settings or preferences saved locally by an extension remain within the user's browser and are managed by the extension or browser, as applicable.
+
+## 4. Data Sharing
+
+CodeZap does not sell, rent, or share users' personal information with third parties.
+
+CodeZap does not transfer users' personal information to third parties for advertising, analytics, or other purposes.
+
+## 5. Data Security
+
+CodeZap takes reasonable measures to ensure that its extensions operate as intended and do not collect or transmit personal information to CodeZap without disclosure.
+
+## 6. Contact
+
+If you have questions about this Privacy Policy, contact:
+
+**Developer:** CodeZap
+
+**Email:** codezapdev@gmail.com
+
+## 7. Chrome Web Store User Data Policy
+
+CodeZap complies with the Chrome Web Store User Data Policy, including the Limited Use requirements. The extensions use permissions and process information only as necessary to provide their stated functionality and in accordance with applicable user consent requirements.
