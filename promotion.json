@@ -1,0 +1,50 @@
+[
+  {
+    "buffettId": "5000000218570228",
+    "codeCurrency": "USD",
+    "codeDenomination": "12.00",
+    "codeStatus": "Available",
+    "codeThreshold": "80.00",
+    "consumeRange": {
+      "clientThreshold": "All",
+      "commodityThreshold": "https://best.aliexpress.com/",
+      "countryThreshold": "Ship to US",
+      "crowdThreshold": "New buyer"
+    },
+    "effectTime": "Sep 30, 2026, 9:00:00 PM -- Dec 31, 2026, 8:59:59 PM",
+    "generalCode": "12NEWUSOFF",
+    "landingPage": "https://s.click.aliexpress.com/e/_c3WWN5V3"
+  },
+  {
+    "buffettId": "5000000218570319",
+    "codeCurrency": "USD",
+    "codeDenomination": "3.00",
+    "codeStatus": "Available",
+    "codeThreshold": "10.00",
+    "consumeRange": {
+      "clientThreshold": "All",
+      "commodityThreshold": "https://best.aliexpress.com/",
+      "countryThreshold": "Ship to US",
+      "crowdThreshold": "New buyer"
+    },
+    "effectTime": "Sep 30, 2026, 9:00:00 PM -- Dec 31, 2026, 8:59:59 PM",
+    "generalCode": "0003NEWUSOFF",
+    "landingPage": "https://s.click.aliexpress.com/e/_c3dGGOmv"
+  },
+  {
+    "buffettId": "5000000218578155",
+    "codeCurrency": "USD",
+    "codeDenomination": "5.00",
+    "codeStatus": "Available",
+    "codeThreshold": "20.00",
+    "consumeRange": {
+      "clientThreshold": "All",
+      "commodityThreshold": "https://best.aliexpress.com/",
+      "countryThreshold": "Ship to US",
+      "crowdThreshold": "New buyer"
+    },
+    "effectTime": "Sep 30, 2026, 9:00:00 PM -- Dec 31, 2026, 8:59:59 PM",
+    "generalCode": "5NEWUSOFF",
+    "landingPage": "https://s.click.aliexpress.com/e/_c3h1m4tJ"
+  }
+]
